@@ -138,7 +138,7 @@ Image by <a href="https://pixabay.com/users/aitoff-388338/?utm_source=link-attri
 <div style="background: #222222">
 ## The Engineering Productivity Team
 <!-- .slide: data-background="images/stormtrooper-2899993_1920.jpg" -->
-### Temporary Embedded Productivity Engineers
+### Embedded Productivity Engineers
 
 ## +
 
