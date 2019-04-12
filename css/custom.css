@@ -1,0 +1,12 @@
+html.blur .backgrounds {
+  -webkit-filter: blur(5px);
+ -moz-filter: blur(10px);
+ -o-filter: blur(5px);
+ -ms-filter: blur(5px);
+ filter: blur(5px);
+}
+
+.outline-text {
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
