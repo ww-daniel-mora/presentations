@@ -1,16 +1,22 @@
 #  Engineering Productivity
 <!-- .slide: data-background="images/light-bulb-1246043_1920.jpg" -->
+Note: Good Evening. I am incredibly excited to be here. This is my first time in Mountain View, my
+first time at Atlassian, and my very first public presentation!
 
 
 ![WeWork](images/WeWork_logo_transparent-white.png)<!-- .element style="background: transparent;" -->
+Note: This presentation is proudly sponsored by WeWork. Which is to say they payed for my flight and
+food and hotel or at least they will as soon as I submit my expense report. I am the Engineering
+Manager for the Test Infrastructure team and I have been there for a little over are year and I am
+having a lot of fun.
 
 
 ## First a Little Context
 <!-- .slide: data-background="images/self.png" -->
-
-Note: I have been programming for quite a while. Now I really didn't start this early, but it was
-pretty close. I actually started learning BASIC on an Apple IIe when I was 12 and I pretty much kept
-going since then. So programming really has become my lifelong passion.
+Note: Today I am going to talking about the cultural aspects of Engineering productivity. I think
+this problem is incredibly interesting because it is as much about culture as it is about tooling.
+There is no silver bullet that will maximize the productivity of every engineer, but, there are an
+awful lot of lead ones. Let me start with a little context so you understand where I am coming from.
 
 
 ## An Agile Introduction
@@ -20,21 +26,24 @@ going since then. So programming really has become my lifelong passion.
 
 ![Compendia Bioscience](images/compendia_logo.jpeg) <!-- .element style="width: 28%" -->
 
-Note: I've been in the industry for over ten years but I started at a little company called Menlo
-Innovations followed by Compendia Bioscience. Both of these companies use Agile and extreme
-programming, with pair programming, weekly sprints, demos to a realistic customer and, literal TDD.
-I had an enormous amount of fun at these two companies and the it was formative for a few reasons
-but critically as a contrast to my next company.
+Note:  The first two companies I worked at placed a high value of the long term productivity of
+their Engineers, and long term productivity means a lot of things. There are the obvious things like
+good tooling and good CI, but there are some less obvious and more pervasive things like good code.
+Both of these companies used SCRUM and XP. They did pair programming, weekly demos to the customer,
+literal TDD, and a lot of other good practices, and the outcome of this, was that in my two years
+working at these companies I never saw a bug. We would just spend six hours a day hands on keyboard
+cranking out new features, then we would go home, rest easy, and come in and do it again.
 
 
 ## A~~n SDET~~ Productivity Engineer is Born
-![Microsoft](images/microsoft_PNG4.png) <!-- .element style="background: none" -->
 
-Note: From these two companies I moved to Microsoft where I was initially hired as an SDET or
-Software Developer Engineer in Test. A job I did not understand. This is a job that Microsoft has
-mostly done away with but one of my responsibilities was to figure out which bugs to fix and which
-bug we were not going to fix. It was a concept I was wholly unfamiliar with and it seemed pretty 
-ridiculous to me.
+Note: From these two companies I moved on to my next company where I was initially hired as an SDET
+or Software Developer Engineer in Test, and I did not know what that meant, so I asked, "What is my
+job?", and they said, "Your job is to triage the bugs and pick which bugs we are not going to fix.",
+and this idea sounded absolutely ludicrous to me. They were paying the engineer to make the bugs,
+they were paying me to sort the bugs, and they they mostly done away with but one of my
+responsibilities was to figure out which bugs to fix and which bug we were not going to fix. It was
+a concept I was wholly unfamiliar with and it seemed pretty ridiculous to me.
 
 
 ## The Long-Term Cost of Short-Termism
@@ -43,13 +52,13 @@ ridiculous to me.
 * Hard to onboard new developers
 * Changes require intense manual work
 * Increased time in unplanned work
-Note: This transition was basically the radioactive spider bite or (radioactive bug bite) that got
-me interested in developer productivity. This process externalized quality from the developer and
-lead to a lot of time spent parsing logs, talking to customers, and reading through untested,
-undocumented code that they either never touched or have not touched in months. These are a bunch
-things that, for the most part, we are not really very good at. Maybe nobody is good at them. Seeing
-the start contrast between these two different processes is what got me interested in engineering
-productivity in the first place. 
+Note: This transition was basically the radioactive spider bite or that got me interested in
+developer productivity. This process externalized quality from the developer and lead to a lot of
+time spent parsing logs, talking to customers, and reading through untested, undocumented code that
+they either never touched or have not touched in months. These are a bunch things that, for the most
+part, we are not really very good at. Maybe nobody is good at them. Seeing the start contrast
+between these two different processes is what got me interested in engineering productivity in the
+first place. 
 
 
 ## A Focus on Engineering Productivity
