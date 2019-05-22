@@ -2,6 +2,9 @@
 <!-- .slide: data-background="images/light-bulb-1246043_1920.jpg" -->
 
 
+![WeWork](images/WeWork_logo_transparent-white.png)<!-- .element style="background: transparent;" -->
+
+
 ## First a Little Context
 <!-- .slide: data-background="images/self.png" -->
 
@@ -34,14 +37,12 @@ bug we were not going to fix. It was a concept I was wholly unfamiliar with and 
 ridiculous to me.
 
 
-## A Stark Contrast
-<!-- .slide: data-background="images/hard_for_devs.png" -->
+## The Long-Term Cost of Short-Termism
+<!-- .slide: class="contrast-bg" data-background="images/hard_for_devs.png" -->
 * Every change gets more complicated
 * Hard to onboard new developers
 * Changes require intense manual work
 * Increased time in unplanned work
-
-<!-- .element class="outline-text" -->
 Note: This transition was basically the radioactive spider bite or (radioactive bug bite) that got
 me interested in developer productivity. This process externalized quality from the developer and
 lead to a lot of time spent parsing logs, talking to customers, and reading through untested,
@@ -51,13 +52,11 @@ the start contrast between these two different processes is what got me interest
 productivity in the first place. 
 
 
-<div style="background: #222222">
 ## A Focus on Engineering Productivity
-<!-- .slide: data-background="images/Bloombergadvanced8.gif" data-state="blur"-->
+<!-- .slide: class="contrast-bg" data-background="images/Bloombergadvanced8.gif" data-state="blur"-->
 * Arcane code base
 * Diverse set of customer requirements
 * Constantly changing requirements (with real world deadlines)
-</div>
 Note: From there I transition to Bloomberg where I get to focus on the productivity problem full
 time and here is where I got to  try a series of experiments. Bloomberg is an interesting company
 and they deal with some really interesting problems. They have a pretty arcane codebase going back
@@ -110,13 +109,11 @@ making some long term productivity enhancements. Wherever one or two folks in a 
 the time we started to see meaningful change take place. 
 
 
-<div style="background: #222222">
 ## Direct Assistance
-<!-- .slide: data-background="images/stormtrooper-2296199_1920.jpg" -->
+<!-- .slide: class="contrast-bg" data-background="images/stormtrooper-2296199_1920.jpg" -->
 * Temporarily embed into a team
 * Make some long term productivity enhancements
 * Train the team on the impact and value of each
-</div>
 Note: Learning from our first two failures we moved on to our next experiment which was supplying
 direct assistance to the teams. This was basically an attempt to replicate some of the successes we
 saw earlier. One of the lessons we learned is that the first step just orders of magnitude more
@@ -135,9 +132,8 @@ Image by <a href="https://pixabay.com/users/aitoff-388338/?utm_source=link-attri
 * Motivated teams will make some investments
 
 
-<div style="background: #222222">
 ## The Engineering Productivity Team
-<!-- .slide: data-background="images/stormtrooper-2899993_1920.jpg" -->
+<!-- .slide: class="contrast-bg" data-background="images/stormtrooper-2899993_1920.jpg" -->
 ### Embedded Productivity Engineers
 
 ## +
@@ -147,7 +143,6 @@ Image by <a href="https://pixabay.com/users/aitoff-388338/?utm_source=link-attri
 ## + 
 
 ### A Tools Team
-</div>
 Note: Image by <a href="https://pixabay.com/users/aitoff-388338/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2899993">Andrew Martin</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2899993">Pixabay</a>
 
 
@@ -159,13 +154,11 @@ Note: Image by <a href="https://pixabay.com/users/aitoff-388338/?utm_source=link
 
 
 ## Looking Forward
-<!-- .slide: data-background="images/lemon-3976559_1920.jpg" -->
+<!-- .slide: class="contrast-bg" data-background="images/lemon-3976559_1920.jpg" -->
 * Segment the population
 * Find motivated partners
 * Market your successes
 * Gather data
-
-<!-- .element: class="outline-text" -->
 
 
 # Questions?
