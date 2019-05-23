@@ -170,6 +170,15 @@ Note: Image by <a href="https://pixabay.com/users/aitoff-388338/?utm_source=link
 * Gather data
 
 
+## Recommended Reading (and listening)
+<!-- .slide: class="contrast-bg" data-background="images/books-1655783_1280.jpg" -->
+* [This American Life #561 - NUMMI 2015](https://www.thisamericanlife.org/561/nummi-2015)
+* Clean Code - Robert C. Martin
+* Working Effectively With Legacy Code - Michael C. Feathers
+* To Sell Is Human - Daniel H. Pink
+* How Google Tests Software - James A. Whittaker et al.
+
+
 # Questions?
 <!-- .slide: data-background="images/sunset-1373171_1920.jpg" -->
 Note: Image by <a href="https://pixabay.com/users/Cleverpix-2508959/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1373171">Cindy Lever</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1373171">Pixabay</a>
