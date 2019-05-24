@@ -1,3 +1,66 @@
+/*
+ * Animation
+ */
+@keyframes rocket-frames {
+    from {
+	color: white;
+    }
+    to {
+	color: orange;
+	transform: translate(100px, -497px) rotate(20deg) scale(0.5);
+    }
+}
+
+@keyframes arrow-frames {
+    from {
+	transform: translate(-175px,-200px) rotate(-90deg);
+    }
+    to {
+	transform: translate(-215px, -240px) rotate(-90deg);
+    }
+}
+
+.rocket {
+	animation-delay: 3s;
+	animation-timing-function: cubic-bezier(.68,-0.06,.98,.58);
+	animation-name: rocket-frames;
+	animation-duration: 4s;
+	animation-fill-mode: forwards;
+}
+
+.animate {
+	animation-play-state: paused;
+}
+
+.pyramid-arrow {
+	transform: translate(-175px,-200px) rotate(-90deg);
+	animation-delay: 3s;
+	animation-timing-function: linear; 
+	animation-name: arrow-frames;
+	animation-duration: 1s;
+	animation-fill-mode: forwards;
+}
+
+/*
+ * Custom styles
+ */
+.outline-text {
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.contrast-bg {
+  background: rgba(34,34,34,0.75);
+}
+
+img#green-arrow {
+	border:0px;
+	margin:0px;
+	background-color:transparent;
+	width: 42px;
+	height: 42px;
+	box-shadow: none;
+}
+
 html.blur .backgrounds {
   -webkit-filter: blur(5px);
  -moz-filter: blur(10px);
@@ -6,10 +69,3 @@ html.blur .backgrounds {
  filter: blur(5px);
 }
 
-.outline-text {
-	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
-
-.contrast-bg {
-  background: rgba(34,34,34,0.75);
-}
