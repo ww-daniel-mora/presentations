@@ -4,13 +4,6 @@ Note: Good Evening. I am incredibly excited to be here. This is my first time in
 first time at Atlassian, and my very first public presentation!
 
 
-![WeWork](images/WeWork_logo_transparent-white.png)<!-- .element style="background: transparent;" -->
-Note: This presentation is proudly sponsored by WeWork. Which is to say they payed for my flight and
-food and hotel or at least they will as soon as I submit my expense report. I am the Engineering
-Manager for the Test Infrastructure team and I have been there for a little over are year and I am
-having a lot of fun.
-
-
 ## First a Little Context
 <!-- .slide: data-background="images/self.png" -->
 Note: Today I am going to talking about the cultural aspects of Engineering productivity. I think
