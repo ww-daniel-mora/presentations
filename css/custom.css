@@ -51,6 +51,25 @@
 .contrast-bg {
   background: rgba(34,34,34,0.75);
 }
+#career-table {
+	transform: scale(.6);
+	position: absolute;
+	top: 0;
+}
+
+#career-table tr {
+	height: 25%;
+}
+
+#career-table td {
+	width: 45%;
+	vertical-align: middle;
+}
+
+#career-table img {
+	background: white;
+	padding: 10px;
+}
 
 img#green-arrow {
 	border:0px;

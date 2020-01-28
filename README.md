@@ -1,4 +1,7 @@
 # Presentations
 
 The repository contains presentations I have created using [reveal.js](https://github.com/hakimel/reveal.js).
-Most of the images in this repository were source from [pixbay](https://pixabay.com/).
+See the rendered presentation [here](https://ww-daniel-mora.github.io/presentations/)
+* [Personal Introduction](introduction/index.html)
+* [Writing the Right Test](writing-the-right-test/index.html)
+* [Engineering Productivity](productivity/index.html)
