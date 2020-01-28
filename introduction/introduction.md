@@ -27,11 +27,9 @@ wanted to be a T-Rex when you grew up but I hope that is is your dream now.
 | ![WeWork](images/wework.png)                | ![Plaid](images/plaid.png)                          |
 
 <!-- .element id="career-table" -->
-Note:  This is where I am coming from.
 
 
 ## Other Interesting Jobs
-
 * Graduation Photographer
 * Line Company Operator
 * High School Teacher
@@ -46,6 +44,7 @@ Note:  This is where I am coming from.
 | &#x1F610; | Bored       | 
 | &#x1F610; | Excited     | 
 | &#x1F610; | Inquisitive | 
+
 Note: I am not a terrible emotive communicator and I have been told that I can be hard to read. I
 am, a fairly good verbal communicator. If you are ever having trouble reading me or you are unclear
 just ask and I can clarify.
@@ -65,7 +64,6 @@ just ask and I can clarify.
 
 
 ## Things I Have Not Done Recently/Ever
-
 * Work on a client facing team
 * Work + Dad at the same time
 
@@ -91,6 +89,7 @@ Note: Image by <a href="https://pixabay.com/users/stux-12364/?utm_source=link-at
 * Time is the most valuable asset
 * I am not the smartest person here
 * I will trade short term loss for long term gain
+
 Note: We are one team we support each other, we have a shared vision of success and we help each
 other grow. 
 You are not a typist. You compensation is not based on the number of hours you spend at
@@ -113,16 +112,14 @@ trade-offs when appropriate. Sometimes these trade-offs involve some short term 
 
 
 ## Agile
-> Individuals and interactions over processes and tools
-
-> Working software over comprehensive documentation
-
-> Customer collaboration over contract negotiation
-
-> Responding to change over following a plan
+> Individuals and interactions over processes and tools<br/>
+> Working software over comprehensive documentation<br/>
+> Customer collaboration over contract negotiation<br/>
+> Responding to change over following a plan<br/>
 
 <!-- .element style="width: unset" -->
 [agilemanifesto.org](agilemanifesto.org)
+
 Note: I am coming from a long history of Agile shops. If you are not familiar with it here is the
 agile manifesto. If you have not read it before it is incredibly short. In addition to the manifesto
 the creators of agile also identified twelve principals of agile software development. I encourage
@@ -133,6 +130,7 @@ you to take a look at them but I am going to focus on just one today.
 <!-- .slide: data-background="images/rear-view-mirror-835085_1920.jpg" -->
 > At regular intervals the team reflects on how to become more effective, then tunes and adjusts its
 > behavior accordingly
+
 Note: This Agile principal is the motivating force behind the retrospective used in the SCRUM
 process. One of the most powerful outcomes of following this principal is that it enables low cost
 experimentation for the team. We get to try out new ideas, commit to them for an iteration and then
