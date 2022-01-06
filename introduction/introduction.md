@@ -31,8 +31,8 @@ wanted to be a T-Rex when you grew up but I hope that is is your dream now.
 
 ## Other Interesting Jobs
 * Graduation Photographer
-* Line Company Operator
-* High School Teacher
+* Line Company Operator - USMC
+* High School CS Teacher
 
 
 # Communication
@@ -54,18 +54,21 @@ just ask and I can clarify.
 * Code quality
 * Team process
 * Mentorship
-* Long term developer productivity
+* Career advocacy
 
 
 ## Things I am not Good at (Yet)
-* The team
-* Company + team history
-* The current process
+* Praise
+* Social stuff - Especially now
+* A "How can I help you" approach
 
-
-## Things I Have Not Done Recently/Ever
-* Work on a client facing team
-* Work + Dad at the same time
+Note: I'm bad at praise because things that are working are boring to me so I tend to focus in on
+what can be improved. I don't know if this is coming from being in the military, or from my
+perspective as an engineer or a part of my very nature. Whatever the source it is very hard to
+break.
+For the social aspect - I have two very small children so anything in person feels very risky.
+Virtual events after hours are a challenge as well. Toddlers have a whole routine to follow and it's
+a lot of work to keep them on track.
 
 
 
@@ -75,11 +78,12 @@ Note: Image by <a href="https://pixabay.com/users/stux-12364/?utm_source=link-at
 
 
 ## Role of a Manager
-* Context down
-* Details up
 * Career support
+* Praise & Feedback
 * Prioritization
 * Process
+* Context down
+* Details up
 
 
 ## Principals
@@ -111,11 +115,77 @@ and companies is a sense of permanent short-termism. I make an effort to recogni
 trade-offs when appropriate. Sometimes these trade-offs involve some short term pain.
 
 
+## Expectations I have of you
+* You are the first owner of your career
+* You are accountable to your commitments
+* Escalate when you get stuck
+* You are the expert
+* Act as a professional
+* Operate as a team
+
+Note:
+* You own your career. If you are not getting what you want out of your time here at Plaid you
+need to make clear what you need, more time from me, different mentorship, different projects.
+* You are accountable to your commitments. That does not mean you will always make them, but, you
+  will be clear when you cannot.
+* If you get stuck or not feeling productive, I expect you to escalate. This goes along with the
+  principal that you are all adults. I will not go out of my way to check in on you or your
+progress.
+* You are the expert. You have spent more time in the code. It is likely that you have been here
+  longer. You know the systems better. Suggestions I make and questions I ask should be treated as
+just that. They are intended to help guide you to a better solution but ultimately you have the most
+context.
+* Act as a professional. Treat your coworkers and me with respect. Come to work every day. Not
+  everything will be fun.
+* Operate as a team. We will support each others growth and success.
+
+
+## Expectations you should have of me
+* I will support your career growth
+* I am accountable to my commitments
+* I will ask challenging questions
+* I am here to support you
+
+
+
+# Team Philosophy
+<!-- .slide: data-background="images/watercolour-1325656_1920.jpg" -->
+### One Team One Dream <!-- .element: class="fragment" -->
+
+
+# Ownership
+<!-- .slide: data-background="images/atlas-1164424_1920.jpg" -->
+Note: Image by <a href="https://pixabay.com/users/ddouk-607002/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1164424">Denis Doukhan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1164424">Pixabay</a>
+
+
+## Individual Ownership
+* Deep expertise
+* Faster short term execution
+<hr/>
+* Information silos
+* Inconsistent code
+* Poor work life balance
+* Weak unit cohesion
+* Useless group estimation
+
+
+## Team Ownership
+* Natural opportunities for mentorship
+* Better work life balance - Easier to step back
+* Improved code consistency
+* Valuable group estimation
+* Good unit cohesion #oneteam
+* Faster long term execution velocity
+<hr/>
+* Slower short term execution velocity
+* Longer to build expertise
+
+
 ## Agile
-> Individuals and interactions over processes and tools<br/>
-> Working software over comprehensive documentation<br/>
-> Customer collaboration over contract negotiation<br/>
-> Responding to change over following a plan<br/>
+> <ins>**Individuals and interactions**</ins> over processes and tools<br/>
+> <ins>**Working software**</ins> over comprehensive documentation<br/>
+> <ins>**Customer collaboration**</ins> over contract negotiation<br/>
+> <ins>**Responding to change**</ins> over following a plan<br/>
 
 <!-- .element style="width: unset" -->
 [agilemanifesto.org](agilemanifesto.org)
@@ -126,61 +196,20 @@ the creators of agile also identified twelve principals of agile software develo
 you to take a look at them but I am going to focus on just one today.
 
 
-## Retrospective
-<!-- .slide: data-background="images/rear-view-mirror-835085_1920.jpg" -->
-> At regular intervals the team reflects on how to become more effective, then tunes and adjusts its
-> behavior accordingly
 
-Note: This Agile principal is the motivating force behind the retrospective used in the SCRUM
-process. One of the most powerful outcomes of following this principal is that it enables low cost
-experimentation for the team. We get to try out new ideas, commit to them for an iteration and then
-retrospect on the experiment. Did it work? Are there things we want to change? Should we do
-something different or abandon this idea all together. Retrospectives are a powerful tool in
-enabling experimentation and continuously improving not just the software but also the process by
-which we create the software.
+# Read a book
+<!-- .slide: data-background="images/books-g3a12777da_1920.jpg" -->
 
 
-## Experimentation
-<!-- .slide: data-background="images/light-bulb-4409109_1920.jpg" -->
-Note: In the coming days I am going to introduce a few process experiments. Before that happens I
-want to put a few guidelines around what a process experiment is and how we conduct one.
-Image by <a href="https://pixabay.com/users/Alexas_Fotos-686414/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4409109">Alexas_Fotos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4409109">Pixabay</a>
+## On Engineering
+![Engineering Books](images/engineering_books.png)
+<!-- .element: style="width: 60%; background: none" -->
 
 
-# Ownership
-<!-- .slide: data-background="images/atlas-1164424_1920.jpg" -->
-Note: Image by <a href="https://pixabay.com/users/ddouk-607002/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1164424">Denis Doukhan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1164424">Pixabay</a>
+## On Life
+![Personal Book](images/personal_books.png)
+<!-- .element: style="width: 60%; background: none" -->
 
-
-## Individual Ownership
-* Rapid assignment
-* Rapid response
-<hr/>
-* Information silos
-* Inconsistent code
-* Poor work life balance
-* Hard to focus on new projects
-* Weak unit cohesion
-
-
-## Team Ownership
-* Mentorship
-* Work life balance
-* Improved code quality
-* Improved code consistency
-* Easier to focus on new projects
-<hr/> 
-* Slower response
-
-
-
-## Recommended Reading (and listening)
-<!-- .slide: class="contrast-bg" data-background="images/books-1655783_1280.jpg" -->
-* [This American Life #561 - NUMMI 2015](https://www.thisamericanlife.org/561/nummi-2015)
-* Clean Code - Robert C. Martin
-* Working Effectively With Legacy Code - Michael C. Feathers
-* To Sell Is Human - Daniel H. Pink
-* How Google Tests Software - James A. Whittaker et al.
 
 
 # ?
