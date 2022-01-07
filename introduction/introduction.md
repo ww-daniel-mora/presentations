@@ -57,9 +57,9 @@ just ask and I can clarify.
 * Career advocacy
 
 
-## Things I am not Good at (Yet)
+## Things I am not Good at
 * Praise
-* Social stuff - Especially now
+* Planning Social Events - Especially now
 * A "How can I help you" approach
 
 Note: I'm bad at praise because things that are working are boring to me so I tend to focus in on
@@ -88,11 +88,10 @@ Note: Image by <a href="https://pixabay.com/users/stux-12364/?utm_source=link-at
 
 ## Principals
 * We are one team
-* You are not typists
 * You are all adults
+* Long term investments pay off
 * Time is the most valuable asset
-* I am not the smartest person here
-* I will trade short term loss for long term gain
+* Software Engineering is a creative endeavor
 
 Note: We are one team we support each other, we have a shared vision of success and we help each
 other grow. 
@@ -115,13 +114,19 @@ and companies is a sense of permanent short-termism. I make an effort to recogni
 trade-offs when appropriate. Sometimes these trade-offs involve some short term pain.
 
 
+## Expectations you should have of me
+* I am here to support you
+* I will ask challenging questions
+* I will support your career growth
+* I am accountable to my commitments
+
+
 ## Expectations I have of you
-* You are the first owner of your career
-* You are accountable to your commitments
-* Escalate when you get stuck
-* You are the expert
-* Act as a professional
+* Own your career
 * Operate as a team
+* Be a professional
+* Escalate when you get stuck
+* Be accountable to your commitments
 
 Note:
 * You own your career. If you are not getting what you want out of your time here at Plaid you
@@ -138,13 +143,6 @@ context.
 * Act as a professional. Treat your coworkers and me with respect. Come to work every day. Not
   everything will be fun.
 * Operate as a team. We will support each others growth and success.
-
-
-## Expectations you should have of me
-* I will support your career growth
-* I am accountable to my commitments
-* I will ask challenging questions
-* I am here to support you
 
 
 
@@ -203,7 +201,11 @@ you to take a look at them but I am going to focus on just one today.
 
 ## On Engineering
 ![Engineering Books](images/engineering_books.png)
-<!-- .element: style="width: 60%; background: none" -->
+<!-- .element: style="width: 50%; background: none; margin: 0" -->
+<hr/>
+[A Typology of Organisational Culture](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/pdf/v013p0ii22.pdf)<!-- .element style="font-size: small; margin: none" -->
+&#x2022;
+[TAL - 561 - NUMMI](https://www.thisamericanlife.org/561/nummi-2015)<!-- .element style="font-size: small; margin: none" -->
 
 
 ## On Life
