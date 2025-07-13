@@ -1,38 +1,35 @@
-# Hello World <!-- .element style="font-family: monospace; color: limegreen" -->
+# README <!-- .element style="font-family: monospace; color: limegreen" -->
 Note: The purpose of this presentation is to provide you with a bit of context for where I am
 coming from, how I communicate, and what my management philosophy is.
 
 
-## Living the Dream
-<!-- .slide: data-background="images/self.png" -->
-Note: I recently went through onboarding. For the first week every onboarding class started with an
-icebreaker question, e.g. "What is your favorite animal?", "Where are you from?", "What is one thing
-almost nobody knows about you?" One of these question was "What did you want to be when you were a
-little kid?" There were a lot of unsurprising answers like doctor and lawyer, there were a few funny
-answers like T-Rex, but of all the folks in that onboarding class I think I was the only one who got
-to answer with my current job - Software Developer. This was a really clarifying moment for me. Not
-only do I feel incredibly fortunate to have my childhood dream job, but, I feel doubly fortunate
-that I truly still love it. After nearly 12 years in the industry I love software. I love working on
-hard problems. I love learning something new every day. I love helping others grow in their career
-and in their love for what they do every day. So what I came to realize is that I am living the
-dream and it is my sincere hope that you are too. Maybe it was not your first dream. Maybe you also
-wanted to be a T-Rex when you grew up but I hope that is is your dream now.
-
-
 ## Career
-|                                             |                                                     |
-| ------------------------------------------- | --------------------------------------------------- | 
-| ![Menlo Innovations](images/menlo_logo.png) | ![Compendia Bioscience](images/compendia_logo.jpeg) |
-| ![Microsoft](images/msft.png)               | ![Bloomberg](images/bloomberg.svg)                  |
-| ![WeWork](images/wework.png)                | ![Plaid](images/plaid.png)                          |
-
-<!-- .element id="career-table" -->
+![Work History](images/work_history.png)
+<!-- .element: style="width: 65%; margin: auto; background: white" -->
 
 
 ## Other Interesting Jobs
 * Graduation Photographer
 * Line Company Operator - USMC
 * High School CS Teacher
+
+
+## Living the Dream
+<!-- .slide: data-background="images/self.png" -->
+Note: Once, as part of an onboarding process, the onboarding class was asked the
+following ice icebreaker question "What did you want to be when you were a little kid?"
+There were a lot of unsurprising answers like doctor and lawyer, there were a few funny
+answers like T-Rex, but of all the folks in that onboarding class I was the only who
+answered with Software Developer. This was a clarifying moment for me. Very few people
+get to do their dream job. Dream change, challenges abound, but I am happy to say that
+this is it for me. This is has been the dream for as long as I can remember and it still
+is.
+I love learning something new every day. I love helping others grow in their career and
+in their love for what they do every day. So what I came to realize is that I am living
+the dream and it is my sincere hope that you are too. Maybe it was not your first dream.
+Maybe you also wanted to be a T-Rex when you grew up but I hope that is is your dream
+now.
+
 
 
 # Communication
@@ -54,22 +51,6 @@ just ask and I can clarify.
 * Code quality
 * Team process
 * Mentorship
-* Career advocacy
-
-
-## Things I am not Good at
-* Praise
-* Planning Social Events - Especially now
-* A "How can I help you" approach
-
-Note: I'm bad at praise because things that are working are boring to me so I tend to focus in on
-what can be improved. I don't know if this is coming from being in the military, or from my
-perspective as an engineer or a part of my very nature. Whatever the source it is very hard to
-break.
-For the social aspect - I have two very small children so anything in person feels very risky.
-Virtual events after hours are a challenge as well. Toddlers have a whole routine to follow and it's
-a lot of work to keep them on track.
-
 
 
 # Management Philosophy
@@ -77,11 +58,11 @@ a lot of work to keep them on track.
 Note: Image by <a href="https://pixabay.com/users/stux-12364/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1325656">Thanks for your Like • donations welcome</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1325656">Pixabay</a>
 
 
-## Role of a Manager
-* Career support
-* Praise & Feedback
+## Role
+* Mentorship 
 * Prioritization
 * Process
+* Culture
 * Context down
 * Details up
 
@@ -92,7 +73,6 @@ Note: Image by <a href="https://pixabay.com/users/stux-12364/?utm_source=link-at
 * Long term investments pay off
 * Time is the most valuable asset
 * Software Engineering is a creative endeavor
-
 Note: We are one team we support each other, we have a shared vision of success and we help each
 other grow. 
 You are not a typist. You compensation is not based on the number of hours you spend at
@@ -115,19 +95,26 @@ trade-offs when appropriate. Sometimes these trade-offs involve some short term 
 
 
 ## Expectations you should have of me
-* I am here to support you
-* I will ask challenging questions
-* I will support your career growth
-* I am accountable to my commitments
+* Mentorship
+* Support
+* Communication
+* Accountability
+Note: One of my goals is to invest in you. I am here to help you grow and help you live
+the dream. Beyond career support I am also here to help the mission succeed. Through
+technical contribution, design, pairing up, testing, debuging, meeting with customers,
+working across funnctions, whatever the mission calls for I am here to help it succeed.
+I will communcate honestly with you and often with humility. I am new here and there is
+a lot I do not know.
+Last you you should expect me to be accountable to my commitments. I will do what I say
+to the best of my ability and if I cannot I will let you know.
 
 
 ## Expectations I have of you
 * Own your career
 * Operate as a team
-* Be a professional
-* Escalate when you get stuck
-* Be accountable to your commitments
-
+* Professionalisim
+* Communication
+* Accountability
 Note:
 * You own your career. If you are not getting what you want out of your time here at Plaid you
 need to make clear what you need, more time from me, different mentorship, different projects.
@@ -145,64 +132,15 @@ context.
 * Operate as a team. We will support each others growth and success.
 
 
-
-# Team Philosophy
-<!-- .slide: data-background="images/watercolour-1325656_1920.jpg" -->
-### One Team One Dream <!-- .element: class="fragment" -->
-
-
-# Ownership
-<!-- .slide: data-background="images/atlas-1164424_1920.jpg" -->
-Note: Image by <a href="https://pixabay.com/users/ddouk-607002/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1164424">Denis Doukhan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1164424">Pixabay</a>
-
-
-## Individual Ownership
-* Deep expertise
-* Faster short term execution
-<hr/>
-* Information silos
-* Inconsistent code
-* Poor work life balance
-* Weak unit cohesion
-* Useless group estimation
-
-
-## Team Ownership
-* Natural opportunities for mentorship
-* Better work life balance - Easier to step back
-* Improved code consistency
-* Valuable group estimation
-* Good unit cohesion #oneteam
-* Faster long term execution velocity
-<hr/>
-* Slower short term execution velocity
-* Longer to build expertise
-
-
-## Agile
-> <ins>**Individuals and interactions**</ins> over processes and tools<br/>
-> <ins>**Working software**</ins> over comprehensive documentation<br/>
-> <ins>**Customer collaboration**</ins> over contract negotiation<br/>
-> <ins>**Responding to change**</ins> over following a plan<br/>
-
-<!-- .element style="width: unset" -->
-[agilemanifesto.org](agilemanifesto.org)
-
-Note: I am coming from a long history of Agile shops. If you are not familiar with it here is the
-agile manifesto. If you have not read it before it is incredibly short. In addition to the manifesto
-the creators of agile also identified twelve principals of agile software development. I encourage
-you to take a look at them but I am going to focus on just one today.
-
-
-
 # Read a book
 <!-- .slide: data-background="images/books-g3a12777da_1920.jpg" -->
 
 
 ## On Engineering
 ![Engineering Books](images/engineering_books.png)
-<!-- .element: style="width: 50%; background: none; margin: 0" -->
+<!-- .element: style="width: 65%; margin: auto" -->
 <hr/>
+
 [A Typology of Organisational Culture](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/pdf/v013p0ii22.pdf)<!-- .element style="font-size: small; margin: none" -->
 &#x2022;
 [TAL - 561 - NUMMI](https://www.thisamericanlife.org/561/nummi-2015)<!-- .element style="font-size: small; margin: none" -->
@@ -210,7 +148,7 @@ you to take a look at them but I am going to focus on just one today.
 
 ## On Life
 ![Personal Book](images/personal_books.png)
-<!-- .element: style="width: 60%; background: none" -->
+<!-- .element: style="width: 65%; margin: auto" -->
 
 
 
