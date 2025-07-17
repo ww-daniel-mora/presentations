@@ -1,74 +1,63 @@
 <!doctype html>
-<html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<html lang="en">
 
-		<title>Writing the Right Test</title>
+<head>
+  <title>Writing the Right Test</title>
+  <meta charset="utf-8">
+  <meta name="description" content="A presentation on incrementally adding tests to a legacy repository">
+  <meta name="author" content="Daniel Mora">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/custom.css">
+  <link rel="stylesheet" href="dist/reveal.css">
+  <link rel="stylesheet" href="dist/theme/black.css">
+  <!-- Theme used for syntax highlighting of code -->
+  <link rel="stylesheet" href="plugin/highlight/zenburn.css">
+</head>
 
-		<link rel="stylesheet" href="css/custom.css">
-		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/black.css">
+<body>
+  <div class="reveal">
+    <div class="slides">
+      <section data-markdown="intro.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"
+        data-separator-notes="^Note:" data-charset="iso-8859-15">
+      </section>
+      <section data-markdown="guidelines_to_good_testing.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"
+        data-separator-notes="^Note:" data-charset="iso-8859-15">
+      </section>
+    </div>
+  </div>
 
-		<!-- Theme used for syntax highlighting of code -->
-		<link rel="stylesheet" href="lib/css/zenburn.css">
+  <script src="dist/reveal.js"></script>
+  <script src="plugin/notes/notes.js"></script>
+  <script src="plugin/markdown/markdown.js"></script>
+  <script src="plugin/highlight/highlight.js"></script>
 
-		<!-- Printing and PDF exports -->
-		<script>
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
-		</script>
-	</head>
-	<body>
-		<div class="reveal">
-			<div class="slides">
-				<section data-markdown="intro.md"
-         				data-separator="^\n\n\n"
-         				data-separator-vertical="^\n\n"
-         				data-separator-notes="^Note:"
-         				data-charset="iso-8859-15">
-				</section>
-				<section data-markdown="guidelines_to_good_testing.md"
-         				data-separator="^\n\n\n"
-         				data-separator-vertical="^\n\n"
-         				data-separator-notes="^Note:"
-         				data-charset="iso-8859-15">
-				</section>
-			</div>
-		</div>
+  <script>
+    // More info about config & dependencies:
+    // - https://github.com/hakimel/reveal.js#configuration
+    // - https://github.com/hakimel/reveal.js#dependencies
+    Reveal.initialize({
+      hash: true,
 
-		<script src="lib/js/head.min.js"></script>
-		<script src="js/reveal.js"></script>
+      // Learn about plugins: https://revealjs.com/plugins/
+      plugins: [RevealMarkdown, RevealHighlight, RevealNotes]
+    });
+    Reveal.addEventListener('slidechanged', function (event) {
+      event.currentSlide.querySelectorAll('.animate').forEach(
+        function (item) {
+          if (!item.classList.contains('fragment')) {
+            item.style.animationPlayState = 'running';
+          }
+        }
+      )
+    });
+    Reveal.addEventListener('fragmentshown', function (event) {
+      if (event.fragment.classList.contains('animate')) {
+        event.fragment.style.animationPlayState = 'running';
+      }
+    });
+  </script>
+</body>
 
-		<script>
-			// More info about config & dependencies:
-			// - https://github.com/hakimel/reveal.js#configuration
-			// - https://github.com/hakimel/reveal.js#dependencies
-			Reveal.initialize({
-				dependencies: [
-					{ src: 'plugin/markdown/marked.js' },
-					{ src: 'plugin/markdown/markdown.js' },
-					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
-				]
-			});
-			Reveal.addEventListener('slidechanged', function(event) {
-				event.currentSlide.querySelectorAll('.animate').forEach(
-					function (item) {
-						if(!item.classList.contains('fragment')) {
-							item.style.animationPlayState = 'running';
-						}
-					}
-				)
-			});
-			Reveal.addEventListener('fragmentshown', function( event ) {
-				if(event.fragment.classList.contains('animate')) {
-					event.fragment.style.animationPlayState = 'running';
-				}
-			});
-		</script>
-	</body>
 </html>
