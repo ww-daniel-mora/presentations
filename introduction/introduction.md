@@ -103,7 +103,7 @@ Note: One of my goals is to invest in you. I am here to help you grow and help y
 the dream. Beyond career support I am also here to help the mission succeed. Through
 technical contribution, design, pairing up, testing, debugging, meeting with customers,
 working across funnctions, whatever the mission calls for I am here to help it succeed.
-I will communcate honestly with you and often with humility. I am new here and there is
+I will communicate honestly with you and often with humility. I am new here and there is
 a lot I do not know.
 Last you you should expect me to be accountable to my commitments. I will do what I say
 to the best of my ability and if I cannot I will let you know.
