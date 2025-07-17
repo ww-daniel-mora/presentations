@@ -172,6 +172,6 @@ Note: Image by <a href="https://pixabay.com/users/aitoff-388338/?utm_source=link
 * How Google Tests Software - James A. Whittaker et al.
 
 
-# Questions?
+# ?
 <!-- .slide: data-background="images/sunset-1373171_1920.jpg" -->
 Note: Image by <a href="https://pixabay.com/users/Cleverpix-2508959/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1373171">Cindy Lever</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1373171">Pixabay</a>
