@@ -48,7 +48,7 @@
 ## Consider This Specification 
 
 ```c++
-/* This method recieves a payload from a sender and echos it back 
+/* This method receives a payload from a sender and echos it back 
 ** The payload is sent as part of the char* msg which has the
 ** following format:
 ** The message type [1 byte]

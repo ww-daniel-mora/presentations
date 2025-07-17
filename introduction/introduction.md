@@ -101,7 +101,7 @@ trade-offs when appropriate. Sometimes these trade-offs involve some short term 
 * Accountability
 Note: One of my goals is to invest in you. I am here to help you grow and help you live
 the dream. Beyond career support I am also here to help the mission succeed. Through
-technical contribution, design, pairing up, testing, debuging, meeting with customers,
+technical contribution, design, pairing up, testing, debugging, meeting with customers,
 working across funnctions, whatever the mission calls for I am here to help it succeed.
 I will communcate honestly with you and often with humility. I am new here and there is
 a lot I do not know.
